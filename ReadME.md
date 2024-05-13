@@ -26,5 +26,6 @@ Once you run the command, a Pygame window should open displaying the Neon Rainy 
 
 Remember to close the window to exit the program. Enjoy!
 
-![Video](https://youtu.be/j6NDBwg5iis)
+[![Video](https://img.youtube.com/vi/j6NDBwg5iis/0.jpg)](https://www.youtube.com/watch?v=j6NDBwg5iis)
+
 
