@@ -25,3 +25,5 @@ Open a command prompt or terminal, navigate to the directory where you saved `ne
 Once you run the command, a Pygame window should open displaying the Neon Rainy Digital Clock. You'll see the time in a neon style, with raindrops falling in the background.
 
 Remember to close the window to exit the program. Enjoy!
+
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/j6NDBwg5iis)
